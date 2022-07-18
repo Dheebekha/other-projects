@@ -1,0 +1,138 @@
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\appsettings.json
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\BlazorDemoUI.StaticWebAssets.xml
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\BlazorDemoUI.exe
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\BlazorDemoUI.deps.json
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\BlazorDemoUI.runtimeconfig.json
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\BlazorDemoUI.runtimeconfig.dev.json
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\BlazorDemoUI.dll
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\ref\BlazorDemoUI.dll
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\BlazorDemoUI.pdb
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\BlazorDemoUI.Views.dll
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\BlazorDemoUI.Views.pdb
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.csprojAssemblyReference.cache
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.AssemblyInfoInputs.cache
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.AssemblyInfo.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.csproj.CoreCompileInputs.cache
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.RazorComponent.input.cache
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.RazorComponent.output.cache
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\BlazorDemoUI.dll
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.TagHelpers.input.cache
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.TagHelpers.output.cache
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.RazorCoreGenerate.cache
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.RazorAssemblyInfo.cache
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.RazorAssemblyInfo.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\staticwebassets\BlazorDemoUI.StaticWebAssets.Manifest.cache
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\staticwebassets\BlazorDemoUI.StaticWebAssets.xml
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\scopedcss\bundle\BlazorDemoUI.styles.css
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\scopedcss\projectbundle\BlazorDemoUI.bundle.scp.css
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.RazorTargetAssemblyInfo.cache
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.RazorTargetAssemblyInfo.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.Views.pdb
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.dll
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\ref\BlazorDemoUI.dll
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.pdb
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.genruntimeconfig.cache
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.csproj.CopyComplete
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\Dapper.dll
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\DataAccessLibrary.dll
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\bin\Debug\net5.0\DataAccessLibrary.pdb
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\Pages\MyPages\People.razor.g.cs
+C:\Users\DheebekhaChellamuthu\source\repos\BlazorDemoUI\obj\Debug\net5.0\Razor\Pages\MyPages\People.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\appsettings.json
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\BlazorDemoUI.StaticWebAssets.xml
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\BlazorDemoUI.exe
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\BlazorDemoUI.deps.json
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\BlazorDemoUI.runtimeconfig.json
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\BlazorDemoUI.runtimeconfig.dev.json
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\BlazorDemoUI.dll
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\ref\BlazorDemoUI.dll
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\BlazorDemoUI.pdb
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\BlazorDemoUI.Views.dll
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\BlazorDemoUI.Views.pdb
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\Dapper.dll
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\DataAccessLibrary.dll
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\bin\Debug\net5.0\DataAccessLibrary.pdb
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.csprojAssemblyReference.cache
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.AssemblyInfoInputs.cache
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.AssemblyInfo.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.csproj.CoreCompileInputs.cache
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.RazorComponent.input.cache
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\Pages\MyPages\People.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.RazorComponent.output.cache
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\RazorDeclaration\BlazorDemoUI.dll
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.TagHelpers.input.cache
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.TagHelpers.output.cache
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.RazorCoreGenerate.cache
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\Razor\Pages\MyPages\People.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.RazorAssemblyInfo.cache
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.RazorAssemblyInfo.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\staticwebassets\BlazorDemoUI.StaticWebAssets.Manifest.cache
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\staticwebassets\BlazorDemoUI.StaticWebAssets.xml
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\scopedcss\bundle\BlazorDemoUI.styles.css
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\scopedcss\projectbundle\BlazorDemoUI.bundle.scp.css
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.RazorTargetAssemblyInfo.cache
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.RazorTargetAssemblyInfo.cs
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.Views.pdb
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.csproj.CopyComplete
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.dll
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\ref\BlazorDemoUI.dll
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.pdb
+C:\Users\DheebekhaChellamuthu\C# Projects\Blazor\BlazorDemoUI\obj\Debug\net5.0\BlazorDemoUI.genruntimeconfig.cache

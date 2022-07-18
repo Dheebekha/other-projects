@@ -1,0 +1,6 @@
+c:\users\jk\documents\visual studio 2015\Projects\IntervalsProgram\IntervalsProgram\bin\Debug\IntervalsProgram.exe.config
+C:\Users\JK\Documents\Visual Studio 2015\Projects\IntervalsProgram\IntervalsProgram\bin\Debug\IntervalsProgram.exe
+C:\Users\JK\Documents\Visual Studio 2015\Projects\IntervalsProgram\IntervalsProgram\bin\Debug\IntervalsProgram.pdb
+C:\Users\JK\Documents\Visual Studio 2015\Projects\IntervalsProgram\IntervalsProgram\obj\Debug\IntervalsProgram.csprojResolveAssemblyReference.cache
+C:\Users\JK\Documents\Visual Studio 2015\Projects\IntervalsProgram\IntervalsProgram\obj\Debug\IntervalsProgram.exe
+C:\Users\JK\Documents\Visual Studio 2015\Projects\IntervalsProgram\IntervalsProgram\obj\Debug\IntervalsProgram.pdb
